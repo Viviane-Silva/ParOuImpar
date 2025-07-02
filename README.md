@@ -54,8 +54,6 @@ Esse exercício ajuda a praticar:
 
 ---
 
-## ✍️ Autor
-
 Desenvolvido por **Viviane Silva** como parte dos estudos de JavaScript.
 
 ---
